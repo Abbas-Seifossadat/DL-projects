@@ -1,6 +1,6 @@
 # Image Classification-CIFAR10
 <div style="background-color:#87CEEB; padding:15px; border-style: solid; font-family:'Comic Sans MS', cursive; color:#000080; border-radius:20px 60px;">
-    <p><strong>Notebook Objective ??:</strong></p>
+    <p><strong>Notebook Objective:</strong></p>
     <p>This notebook explores the CIFAR-10 dataset and constructs a CNN model for image classification. It follows a structured process:</p>
     <ol>
         <li><strong>Importing Libraries</strong>: Necessary frameworks like TensorFlow and Keras are imported.</li>
